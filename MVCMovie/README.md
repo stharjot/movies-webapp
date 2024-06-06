@@ -78,3 +78,17 @@ https://github.com/stharjot/movies-webapp/
 - created new migration named Rating at :
 20240530195305
 
+- --------------------------------------------------------------------------------------
+
+# 2024-06-06
+
+19:06
+- Made the github Repo public 
+
+19:11
+- Added Seed Data, deleted old data and loaded Data from Seed data Class
+
+
+19:15
+- Added logs in Readme File
+- Added Validation for the 'Create New' html file  by changes in ' Movie.cs' file   
