@@ -40,7 +40,8 @@ No Auth
 
 18:40
 - Added a SqlDatabase with Nuget Packagae Manager
-- Migrations folder and Data folder created aautomatically at time : 20240523181110
+- Migrations folder and Data folder created aautomatically at time : 
+- 20240523181110
 
 19:17
 - Added movies data base through the web Create page
@@ -73,4 +74,7 @@ https://github.com/stharjot/movies-webapp/
 
 19:40
 - Added Rating field
+- Changes in Index Create, Delete, Edit cshtml files
+- created new migration named Rating at :
+20240530195305
 
