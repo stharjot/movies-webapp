@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WebApplications\\MVCMovie\\MVCMovie\\MVCMovie.csproj": {}
+    "E:\\WebApplications\\movies-webapp\\MVCMovie\\MVCMovie.csproj": {}
   },
   "projects": {
-    "E:\\WebApplications\\MVCMovie\\MVCMovie\\MVCMovie.csproj": {
+    "E:\\WebApplications\\movies-webapp\\MVCMovie\\MVCMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WebApplications\\MVCMovie\\MVCMovie\\MVCMovie.csproj",
+        "projectUniqueName": "E:\\WebApplications\\movies-webapp\\MVCMovie\\MVCMovie.csproj",
         "projectName": "MVCMovie",
-        "projectPath": "E:\\WebApplications\\MVCMovie\\MVCMovie\\MVCMovie.csproj",
+        "projectPath": "E:\\WebApplications\\movies-webapp\\MVCMovie\\MVCMovie.csproj",
         "packagesPath": "C:\\Users\\harjo\\.nuget\\packages\\",
-        "outputPath": "E:\\WebApplications\\MVCMovie\\MVCMovie\\obj\\",
+        "outputPath": "E:\\WebApplications\\movies-webapp\\MVCMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\harjo\\AppData\\Roaming\\NuGet\\NuGet.Config",

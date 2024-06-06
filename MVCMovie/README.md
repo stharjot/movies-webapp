@@ -9,6 +9,9 @@ No Auth
 
 --------------------------------------------------------------------------------------
 # WORK LOG (Time in UTC) 
+
+--------------------------------------------------------------------------------------
+
 # 2024-05-09
 
 17:50 
@@ -26,7 +29,7 @@ No Auth
 - Showed Welcome page with link of pattern https://localhost:7242/Movie/Welcome/xxxxxx?id=yyyy 
 
 --------------------------------------------------------------------------------------
-# WORK LOG (Time in UTC) 
+
 # 2024-05-09
 
 18:30
@@ -50,3 +53,24 @@ No Auth
 
 
 --------------------------------------------------------------------------------------
+
+# 2024-05-30
+
+18:39
+
+- Added Search bar for seacrching movies
+- Added sql code for querty and changes in Index methos in MoviesController
+
+19:17
+- Added filter to filter out genres
+
+19:24 
+- Created github account for college email
+- Added this project to github with name movies-webapp
+- Created 'develop' branch along with master (default) branch and commited all the work until now to that repo
+- url of project :
+https://github.com/stharjot/movies-webapp/
+
+19:40
+- Added Rating field
+
